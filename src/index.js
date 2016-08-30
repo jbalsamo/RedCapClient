@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Heading from './components/heading';
+import Heading from './components/shared/heading';
 
 
 class App extends React.Component {
   render() {
     return (
       <div>
-        <Heading title="Reasearch Study Portal!" />
+        <Heading title="Reasearch Study Portal" />
       </div>
     );
   }
