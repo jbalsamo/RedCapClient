@@ -3,8 +3,8 @@ import React from 'react';
 class Heading extends React.Component {
   render() {
     return (
-      <div className="jumbotron">
-        <h2 className="text-center">{this.props.title}</h2>
+      <div className="headertitle">
+        <span className="text-center">{this.props.title}</span>
       </div>
     );
   }
