@@ -14,12 +14,21 @@
     margin: 0 0;
     background-color: #AA0000;
 }
+
 .mynavbar a {
     color: #FFFFFF;
     margin: 0 0;
     background-color: #AA0000;
 }
 
-.mynavbar a.visited {
+.mynavbar>li>a:hover {
     color: #FFFFFF;
+    margin: 0 0;
+    background-color: #333333;
+}
+
+.mynavbar a:hover {
+    color: #FFFFFF;
+    margin: 0 0;
+    background-color: #333333;
 }

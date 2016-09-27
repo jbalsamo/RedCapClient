@@ -20,8 +20,7 @@ class NavBar extends React.Component {
                             <li><a href="#">Browse Clinical Trials</a></li>
                         </ul>
                         <ul className="nav navbar-nav navbar-right">
-                            <li><a href="#"><span className="glyphicon glyphicon-user"></span> Sign Up</a></li>
-                            <li><a href="#"><span className="glyphicon glyphicon-log-in"></span> Login</a></li>
+                            <li><a href="#"><span className="glyphicon glyphicon-log-in"></span> Login / <span className="glyphicon glyphicon-user"></span> Sign Up</a></li>
                         </ul>
                     </div>
                 </div>
