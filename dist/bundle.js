@@ -21642,7 +21642,7 @@
 	                                { className: "active" },
 	                                _react2.default.createElement(
 	                                    "a",
-	                                    { href: "" },
+	                                    { href: "./" },
 	                                    "Home"
 	                                )
 	                            )
@@ -21655,7 +21655,7 @@
 	                                null,
 	                                _react2.default.createElement(
 	                                    "a",
-	                                    { href: "login" },
+	                                    { href: "./login" },
 	                                    _react2.default.createElement("span", { className: "glyphicon glyphicon-log-in" }),
 	                                    " Login / ",
 	                                    _react2.default.createElement("span", { className: "glyphicon glyphicon-user" }),
